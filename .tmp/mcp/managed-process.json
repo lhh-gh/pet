@@ -1,0 +1,12 @@
+{
+  "pid": 23876,
+  "startedAt": "2026-10-23T07:21:45+08:00",
+  "logPath": "E:\\go\\pet\\.tmp\\mcp\\mcp.log",
+  "configPath": "E:\\go\\pet\\server\\cmd\\mcp\\config.yaml",
+  "workDir": "E:\\go\\pet\\server",
+  "command": "E:\\go\\pet\\.tmp\\mcp\\gva-mcp-standalone.exe",
+  "args": [
+    "-config",
+    "E:\\go\\pet\\server\\cmd\\mcp\\config.yaml"
+  ]
+}

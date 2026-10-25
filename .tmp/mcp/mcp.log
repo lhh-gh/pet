@@ -1,0 +1,2 @@
+2026/10/23 07:21:45 maxprocs: Leaving GOMAXPROCS=32: CPU quota undefined
+2026-10-23T07:21:45.456+0800	INFO	mcp/main.go:25	mcp独立服务启动	{"config": "E:\\go\\pet\\server\\cmd\\mcp\\config.yaml", "addr": ":8889", "path": "/mcp", "upstream": "http://127.0.0.1:8888"}
